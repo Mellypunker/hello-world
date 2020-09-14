@@ -31,3 +31,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+![CI](https://github.com/Mellypunker/hello-world/workflows/CI/badge.svg?branch=Mellypunker-patch-1&event=workflow_dispatch)
